@@ -266,12 +266,12 @@ nav {
 .lds-facebook {
   text-indent: -9999em;
   font-size: 3rem;
-  margin-top: 20rem;
+  margin: 88px auto;
   position: relative;
   color: var(--clr-secondary-2);
-  margin: 88px auto;
   -ms-transform: translateZ(0);
   transform: translateZ(0);
+  margin-top: 20rem;
   -webkit-transform: translateZ(0);
   -webkit-animation-delay: -.16s;
   animation-delay: -.16s;
